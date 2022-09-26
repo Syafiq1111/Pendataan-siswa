@@ -1,2 +1,2 @@
 # Apiq-SH
-Aplikasi pendataan siswa siswi disiniii
+Aplikasi pendataan siswa siswi disiniii, aplikasi tersebut dibuat oleh SYAFIQ HAFIZH FARIZI
